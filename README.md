@@ -2,4 +2,4 @@
 
 Use this code to create graphics of the various eigenstates of the hydrogen atom.
 
-![421](https://user-images.githubusercontent.com/72924413/166525813-9ce6e610-bf06-4ca7-82a6-07a917b37dbd.png)
+![521](https://user-images.githubusercontent.com/72924413/166527275-ebc92d0f-021a-4ef8-9c3e-3aeaab4edbac.png)
