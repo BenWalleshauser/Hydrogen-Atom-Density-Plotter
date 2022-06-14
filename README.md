@@ -1,6 +1,6 @@
 # Hydrogen-Atom-Density-Plotter
 
-Use this code to create density plots of the various eigenstates of the hydrogen atom.
+Use this code to create probability density plots of the various eigenstates of the hydrogen atom.
 
 
 
